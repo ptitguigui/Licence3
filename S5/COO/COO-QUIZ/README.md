@@ -1,14 +1,5 @@
-<<<<<<< HEAD
-Bienvenue sur notre TP Piscine
-=======
 Bienvenue sur notre TP Quiz
->>>>>>> older_COO-QUIZ/master
-===================
 
-
-
-----------
-<<<<<<< HEAD
 <p>Mini projet réalisé dans le cadre de la Conception Orienté Objet par Christopher Caroni et Leprêtre Guillaume. Ce projet sera évalué par notre professeur de TD Quentin Baert. Dans ce tp, vous pouvez gérer une piscine...</p>
 
 # Composition du TP :
